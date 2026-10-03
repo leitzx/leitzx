@@ -1,3 +1,6 @@
+//Não consegui fazer certinho, fiz com ajuda de IA
+
+
 #include <stdio.h>
 
 int main()
